@@ -5,6 +5,7 @@ __pycache__/
 artifacts/
 !artifacts/.gitkeep
 *.md
+!README.md
 *.pdf
 *.docx
 *.zip
