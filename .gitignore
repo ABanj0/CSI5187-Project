@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+artifacts/
+!artifacts/.gitkeep
+*.md
+*.pdf
+*.docx
+*.zip
+.agents/
+.codex/
+.pytest_cache/
+.uv-cache/
